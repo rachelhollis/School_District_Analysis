@@ -2,7 +2,7 @@
 
 ## Overview
 
-Perform analysis on school district information. Using school and student data, show any potential trends and patterns. To keep the data as accurate as possible, Thomas High School ninth grade math and reading scores will be changed to NaN due to academic dishonestly.
+Perform analysis on school district information. Using school and student data, show any potential trends and patterns. To keep the data as accurate as possible, Thomas High School ninth grade math and reading scores will be changed to NaN due to academic dishonestly. Further analyze how changing the Thomas High School data affects the results. 
 
 ### Purpose
 
