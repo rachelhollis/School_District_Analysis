@@ -61,9 +61,11 @@ Thomas High School with spending ranges per student and school size added:
 #### Math and Reading scores by grade
 
 Reading scores by grade:
+
 ![resources/reading_scores_by_grade.jpg](resources/reading_scores_by_grade.jpg)
 
 Math scores by grade:
+
 ![resources/math_scores_by_grade.jpg](resources/math_scores_by_grade.jpg)
 
 For the Thomas High School scores by grades data frames, the only effect on changing the scores for 9th grade to NaN simply creates a null value for that column in the 9th grade scores. The original average reading score for 9th grade was 83.7 and 83.6 for math which appears to be pretty consistent with the 10th through 12th grade scores. 
