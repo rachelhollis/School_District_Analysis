@@ -85,26 +85,35 @@ After changing the score values for ninth-graders for Thomas High School, there 
 
 #### Scores by school spending (not formatted)
 
+Scores by school spending before:
+
+![resources/spending_before.png](resources/spending_before.png)
+
+Scores by school spending after:
+
+![resources/spending_after.jpg](resources/spending_after.jpg)
+
 #### Scores by school size 
 
 Scores by school size before:
 
-![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
+![resources/size_before.png](resources/size_before.png)
 
 Scores by school size after:
 
-![resources/scores_by_school_size.jpg](resources/scores_by_school_size.jpg)
+![resources/school_size_after.jpg](resources/school_size_after.jpg)
 
 Thomas High School belongs to the medium range for school size.
 
 #### Scores by school type 
 
 Scores by school type before:
-![resources/scores_by_school_type_before.png](resources/scores_by_school_type_before.png)
+
+![resources/type_before.png](resources/type_before.png)
 
 Scores by school type after:
 
-![resources/scores_by_school_type.jpg](resources/scores_by_school_type.jpg)
+![resources/type_after.jpg](resources/type_after.jpg)
 
 Thomas High School belongs to the charter school type.
 
