@@ -39,7 +39,7 @@ For Thomas High School	, the average math and reading scores stays relatively cl
 
 The percent passing math, reading, and overall has around the same marginal changes. The percent passing math decreases by approximately .08% (from 93.27 to 93.19), the percent passing reading decreases by about .29% (from 97.31 to 97.02), and the overall percent passing decreases by around .32% (from 90.95 to 90.63).
 
-While there is an increase in the average reading score, there is a decrease in the percent passing. This signifies that there was a large portion of ninth-graders that passed even though their average score was less than the 10th-12th graders average score.
+While there is an increase in the average reading score, there is a decrease in the percent passing reading. This signifies that there was a large portion of ninth-graders that passed even though their average score was less than the 10th-12th graders average score. This is also true for the reading scores and percent overall passing, there was a higher number of students passing with ninth-grade scores and removing them from consideration brings the overall passing scores down. 
 
 
 ### School performance
