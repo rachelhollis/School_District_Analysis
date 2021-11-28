@@ -73,6 +73,7 @@ For the Thomas High School scores by grades data frames, the only effect on chan
 #### Scores by school spending (formatted)
 
 Scores by school spending before:
+
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
 
 Scores by school spending after:
