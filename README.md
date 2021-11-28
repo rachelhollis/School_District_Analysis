@@ -47,4 +47,4 @@ Thomas High School’s performance before:
 Thomas High School's performance after:
 ![resources/high_performing.jpg](resources/high_performing.jpg)
 
-Before and after replacing the ninth-grader’s math and reading scores, Thomas High School remains in second place in the top performing schools. While before, Thomas High School was closer to Cabrera High School, now Thomas High School is closer to Griffin High School in performance. 
+Thomas High School remains in second place in the top performing schools before and after changing the ninth-grade scores. While before, Thomas High School was closer to Cabrera High School, now Thomas High School is closer to Griffin High School in performance. 
