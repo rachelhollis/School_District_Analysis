@@ -127,5 +127,5 @@ Overall, there wasn't a huge upset after updating the reading and math scores to
 
 1. District Summary data frame: The average math and reading scores as well as the percentage passing drops slightly. This shows that the ninth-graders had an overall positive impact on the schools results. 
 2. Top school performance data frame: Thomas High School remains the second highest performing school when it comes to the percentage of overall passing students. However, the overall passing percentage drops by around .2% bringing the school closer to the third highest performing school, Griffin High School.
-3. Scores by grade data frame: Thomas High School can not be compared to the other schools in the 9th grade column due to the NaN value
-4. Scores by grade, school spending, school size, and school type data frames:The impact when changing the ninth grade scores was negligent. The analysis remains the relatively the same and therefore can be considered to be unchanged when it comes to analyzing the data with or without the ninth-grade scores. 
+3. Scores by grade data frame: Thomas High School can not be compared to the other schools in the 9th grade column due to the NaN value. However, the other grades can still be analyzed using this data frame.
+4. Scores by grade, school spending, school size, and school type data frames: The impact when changing the ninth grade scores was negligent. The analysis remains the relatively the same and therefore can be considered to be unchanged when it comes to analyzing the data with or without the ninth-grade scores. 
