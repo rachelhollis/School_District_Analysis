@@ -50,4 +50,54 @@ Thomas High School’s performance before:
 Thomas High School's performance after:
 ![resources/high_performing.jpg](resources/high_performing.jpg)
 
-Thomas High School remains in second place in the top performing schools before and after changing the ninth-grade scores. While before, Thomas High School was closer to Cabrera High School, now Thomas High School is closer to Griffin High School in performance. 
+Before and after replacing the ninth-grader’s math and reading scores, Thomas High School remains in second place in the top performing schools. While before, Thomas High School was closer to Cabrera High School, now Thomas High School is closer to Griffin High School in performance. 
+
+### Scores by Category
+
+##### Math and Reading scores by grade
+
+Reading scores by grade:
+![resources/reading_scores_by_grade.jpg](resources/reading_scores_by_grade.jpg)
+
+Math scores by grade:
+![resources/math_scores_by_grade.jpg](resources/math_scores_by_grade.jpg)
+
+For the Thomas High School scores by grades data frames, the only effect on changing the scores for 9th grade to NaN simply creates a null value for that column in the 9th grade scores. The original average reading score for 9th grade was 83.7 and 83.6 for math which appears to be pretty consistent with the 10th through 12th grade scores. 
+
+#### Challenges
+
+Thomas High School with spending ranges per student and school size added:
+![resources/thomas_high_school.jpg](resources/thomas_high_school.jpg)
+
+##### Scores by school spending (formatted)
+
+Scores by school spending before:
+![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
+
+Scores by school spending after:
+![resources/scores_by_school_spending.jpg](resources/scores_by_school_spending.jpg)
+
+Thomas High School belongs to the $630-644 spending range.
+
+##### Scores by school size (formatted)
+
+Scores by school size before:
+![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
+
+Scores by school size after:
+![resources/scores_by_school_size.jpg](resources/scores_by_school_size.jpg)
+
+Thomas High School belongs to the medium range for school size.
+
+##### Scores by school type (formatted)
+
+Scores by school type before:
+![resources/scores_by_school_type_before.png](resources/scores_by_school_type_before.png)
+
+Scores by school type after:
+![resources/scores_by_school_type.jpg](resources/scores_by_school_type.jpg)
+
+Thomas High School belongs to the charter school type.
+
+
+After changing the score values for ninth-graders for Thomas High School, there appears to be no change in the scores by school spending data frame values. Thomas High School remains in the same spending range before and after the changes were made. If there was any disturbance in the average scores and the percentage of passing students, it was minimal that after rounding there is no difference. The same is true for the scores by school type and scores by school size. Therefore to get an idea of the actual changes happening the formatted data frames won’t be useful. However, we can draw the conclusion that not much actually changes in our analysis when we replace the ninth-grade scores from the data set.
