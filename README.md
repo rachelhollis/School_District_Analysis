@@ -73,6 +73,7 @@ Scores by school spending before:
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
 
 Scores by school spending after:
+
 ![resources/scores_by_school_spending.jpg](resources/scores_by_school_spending.jpg)
 
 Thomas High School belongs to the $630-644 spending range.
@@ -81,9 +82,10 @@ After changing the score values for ninth-graders for Thomas High School, there 
 
 #### Scores by school spending (not formatted)
 
-##### Scores by school size 
+#### Scores by school size 
 
 Scores by school size before:
+
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
 
 Scores by school size after:
@@ -91,12 +93,13 @@ Scores by school size after:
 
 Thomas High School belongs to the medium range for school size.
 
-##### Scores by school type 
+#### Scores by school type 
 
 Scores by school type before:
 ![resources/scores_by_school_type_before.png](resources/scores_by_school_type_before.png)
 
 Scores by school type after:
+
 ![resources/scores_by_school_type.jpg](resources/scores_by_school_type.jpg)
 
 Thomas High School belongs to the charter school type.
