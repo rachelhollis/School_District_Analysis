@@ -64,12 +64,10 @@ Math scores by grade:
 
 For the Thomas High School scores by grades data frames, the only effect on changing the scores for 9th grade to NaN simply creates a null value for that column in the 9th grade scores. The original average reading score for 9th grade was 83.7 and 83.6 for math which appears to be pretty consistent with the 10th through 12th grade scores. 
 
-#### Challenges
-
 Thomas High School with spending ranges per student and school size added:
 ![resources/thomas_high_school.jpg](resources/thomas_high_school.jpg)
 
-##### Scores by school spending (formatted)
+#### Scores by school spending (formatted)
 
 Scores by school spending before:
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
@@ -79,7 +77,11 @@ Scores by school spending after:
 
 Thomas High School belongs to the $630-644 spending range.
 
-##### Scores by school size (formatted)
+After changing the score values for ninth-graders for Thomas High School, there appears to be no change in the scores by school spending data frame values. Thomas High School remains in the same spending range before and after the changes were made. If there was any disturbance in the average scores and the percentage of passing students, it was minimal that after rounding there is no difference. The same is true for the scores by school type and scores by school size. Therefore to get an idea of the actual changes happening the formatted data frames won’t be useful. However, we can draw the conclusion that not much actually changes in our analysis when we replace the ninth-grade scores from the data set.
+
+#### Scores by school spending (not formatted)
+
+##### Scores by school size 
 
 Scores by school size before:
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
@@ -89,7 +91,7 @@ Scores by school size after:
 
 Thomas High School belongs to the medium range for school size.
 
-##### Scores by school type (formatted)
+##### Scores by school type 
 
 Scores by school type before:
 ![resources/scores_by_school_type_before.png](resources/scores_by_school_type_before.png)
@@ -100,4 +102,3 @@ Scores by school type after:
 Thomas High School belongs to the charter school type.
 
 
-After changing the score values for ninth-graders for Thomas High School, there appears to be no change in the scores by school spending data frame values. Thomas High School remains in the same spending range before and after the changes were made. If there was any disturbance in the average scores and the percentage of passing students, it was minimal that after rounding there is no difference. The same is true for the scores by school type and scores by school size. Therefore to get an idea of the actual changes happening the formatted data frames won’t be useful. However, we can draw the conclusion that not much actually changes in our analysis when we replace the ninth-grade scores from the data set.
