@@ -7,10 +7,10 @@ Perform analysis on school district information. Using school and student data, 
 ### Purpose
 
 Create the following metrics for analysis:
-•	District summary
-•	School summary
-•	Top 5 and bottom 5 performing schools on overall passing rate
-•	Average math scores for each grade level from each school
-•	Average reading scores for each grade level from each school
-•	Scores by school spending per student, by school size, and by  school type
+-	District summary
+-	School summary
+-	Top 5 and bottom 5 performing schools on overall passing rate
+-	Average math scores for each grade level from each school
+-	Average reading scores for each grade level from each school
+-	Scores by school spending per student, by school size, and by  school type
 
