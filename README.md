@@ -92,6 +92,7 @@ Scores by school size before:
 ![resources/scores_by_school_size_before.png](resources/scores_by_school_size_before.png)
 
 Scores by school size after:
+
 ![resources/scores_by_school_size.jpg](resources/scores_by_school_size.jpg)
 
 Thomas High School belongs to the medium range for school size.
