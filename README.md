@@ -58,7 +58,7 @@ Thomas High School with spending ranges per student and school size added:
 
 ![resources/thomas_high_school.jpg](resources/thomas_high_school.jpg)
 
-##### Math and Reading scores by grade
+#### Math and Reading scores by grade
 
 Reading scores by grade:
 ![resources/reading_scores_by_grade.jpg](resources/reading_scores_by_grade.jpg)
