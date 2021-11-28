@@ -24,20 +24,23 @@ School district summary before changes:
 School district summary after changes:
 ![resources/district_summary_changed](resources/district_summary_changed.jpg)
 
-Although the two are rounded to different decimals and formatted differently, it is clear that the data (district wide) is affected only marginally by the changed the Thomas High School scores. The average scores and percentage passing scores drop slightly. For example, rounding the percent overall passing from the previous school summary to 65.2%, there is only a difference of 0.3% compared to the summary after the changes. Since the scores tend to drop slightly, the ninth-grade scores must have had a positive impact on the data i.e., the scores were high.
+Although the two are rounded to different decimals and formatted differently, it is clear that the data (district wide) is affected only marginally by the changed the Thomas High School scores. The average scores and percentage passing scores drop slightly. For example, rounding the percent overall passing from the previous school summary to 65.2%, there is only a difference of 0.3% compared to the summary after the changes. Since the scores tend to drop slightly, the ninth-grade scores must have had a positive impact on the data i.e., the percent passing was high.
 
 
 ### School Summary
 
-Per School Summary before: 
-![resources/per_school_summary_before.jpg](resources/per_school_summary_before.jpg)
+Per School Summary before (using top performing schools): 
+![resources/high_performing_before.png](resources/high_performing_before.png)
 
 Per School Summary after:
 ![resources/per_school_summary_after.jpg](resources/per_school_summary_after.jpg)
 
-Specifically looking at Thomas High School, the average math and reading scores are drastically affected by the ninth-grade data. The average math score drops roughly 10% (from 93.3% to 83.4%) while the average reading scores drop roughly 13.4% (from 97.3% to 83.9%) when the data is replaced with NaN.
+For Thomas High School	, the average math and reading scores stays relatively close when changing the scores for ninth graders to NaN. The average math score decreases approximately by .06 (from 83.41 to 83.35) and the average reading score increases by about .05 (from 83.84 to 83.89).
 
-However, the percent passing math, reading, and overall data isn’t affected by much with only around a 0.1-0.3% change. While the ninth-grade data tends to increase the average scores, the percent passing remains relatively neutral.
+The percent passing math, reading, and overall has around the same marginal changes. The percent passing math decreases by approximately .08% (from 93.27 to 93.19), the percent passing reading decreases by about .29% (from 97.31 to 97.02), and the overall percent passing decreases by around .32% (from 90.95 to 90.63).
+
+While there is an increase in the average reading score, there is a decrease in the percent passing. This signifies that there was a large portion of ninth-graders that passed even though their average score was less than the 10th-12th graders average score.
+
 
 ### School performance
 
